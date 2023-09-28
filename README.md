@@ -1,33 +1,19 @@
 CMPUT404-project-socialdistribution
 ===================================
 
-CMPUT404-project-socialdistribution
+CMPUT 404 Project: Social Distribution
 
-See project.org (plain-text/org-mode) for a description of the project.
-
-Make a distributed social network!
-
-Contributing
-============
-
-Send a pull request and be sure to update this file with your name.
+[Project requirements](https://github.com/uofa-cmput404/project-socialdistribution/blob/master/project.org) 
 
 Contributors / Licensing
 ========================
 
-Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+Authors:
+    
+* Firstname Lastname
+* Firstname Lastname
+* Firstname Lastname
+* Firstname Lastname
+* Firstname Lastnmae
 
-All text is licensed under the CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/deed.en_US
-
-Contributors:
-
-    Karim Baaba
-    Ali Sajedi
-    Kyle Richelhoff
-    Chris Pavlicek
-    Derek Dowling
-    Olexiy Berjanskii
-    Erin Torbiak
-    Abram Hindle
-    Braedy Kuzma
-    Nhan Nguyen 
+Generally everything is LICENSE'D under the ______________.
